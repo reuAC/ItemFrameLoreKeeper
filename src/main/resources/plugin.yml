@@ -1,0 +1,8 @@
+name: ItemFrameLoreKeeper
+version: '${project.version}'
+main: org.reuac.itemframelorekeeper.ItemFrameLoreKeeper
+api-version: '1.16'
+commands:
+  itemframelorekeeper:
+    description: "itemframelorekeeper"
+    permission: itemframelorekeeper.main
