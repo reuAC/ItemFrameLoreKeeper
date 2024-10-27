@@ -2,7 +2,7 @@
 击落隐形展示框后，掉落物仍保持隐形状态、Lore等  
 ## 介绍
 该插件适用于Spigot1.16及以上。  
-**前置：(NBT-Api)[https://modrinth.com/plugin/nbtapi/version/2.13.1]**
+**前置：[NBT-Api](https://modrinth.com/plugin/nbtapi)**  
 
 通过在配置文件中事先约定好隐形展示框的物品名称、Lore，使得所有掉落的隐形展示框保持配置文件中的状态。
 ## 指令
